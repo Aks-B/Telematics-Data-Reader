@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SerialComm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SerialComm_jar</output-path>
+    <root id="archive" name="SerialComm.jar">
+      <element id="module-output" name="SerialComm" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Library/jSerialComm-2.9.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
